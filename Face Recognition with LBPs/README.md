@@ -22,7 +22,8 @@
 - Download and extract CALTECH Faces dataset from [**here**](http://www.vision.caltech.edu/html-files/archive.html).
 - To train and test the recognizer:
 
-``` python run.py --dataset caltech_faces
+``` 
+python run.py --dataset caltech_faces
 ```
 - Results:
 
