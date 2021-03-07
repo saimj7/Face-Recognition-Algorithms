@@ -4,7 +4,7 @@
 > We apply the LBPs algorithm to identify each of the subjects in the CALTECH Faces dataset. LBP histograms (right) for the white cells (such as the eyes) are weighed 4x more than the other cells:
 
 <div align="center">
-<img src=mylib/misc/weigh.png?raw=true "weighing scheme" width=540 >
+<img src=mylib/misc/weigh.png?raw=true "weighing scheme" width=570 >
 </div>
 
 ---
@@ -27,7 +27,7 @@
 - Results:
 
 <div align="center">
-<img src=mylib/misc/result1.png?raw=true "sklearn" width=540 >
+<img src=mylib/misc/result1.png?raw=true "sklearn" width=520 >
 </div>
 
 > NOTE: Pretty good accuracy. Feel free to change the cell size, usually 8x8 (64 histograms) or higher results in higher accuracy. However, the computations to extract features, memory storage and training time also increases.
@@ -35,7 +35,7 @@
 - Actual Vs. Predicted:
 
 <div align="center">
-<img src=mylib/misc/result2.png?raw=true "sample" width=540 >
+<img src=mylib/misc/result2.png?raw=true "sample" width=580 >
 </div>
 
 
@@ -47,4 +47,4 @@
 
 ---
 
-saimj7/ 2021 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
+saimj7/ 07-03-2021 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
