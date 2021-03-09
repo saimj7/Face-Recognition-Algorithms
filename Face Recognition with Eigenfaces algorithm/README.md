@@ -35,7 +35,7 @@ Test Face = 36% of Eigenface #1 + -8% of Eigenface #2 … + 21% of Eigenface N
 
 ## Inference
 
-- Download and extract CALTECH Faces dataset from [**here**](http://www.vision.caltech.edu/html-files/archive.html).
+- Download and extract CALTECH Faces dataset from [**here**](http://www.vision.caltech.edu/html-files/archive.html) (already included).
 - To train and test the algorithm:
 
 ```
